@@ -1,2 +1,2 @@
 # xiaomihu
-For test only
+*For test only, interesting
